@@ -1,0 +1,15 @@
+GoodStudent,John Smith,15/05/1998,Male,0901234567,Excellent,8.5,Olympics of Math
+NormalStudent,Alice Smith,20/09/1997,Female,0987654321,Good,7,8.0
+GoodStudent,Bob Johnson,10/03/1999,Male,0382345678,Excellent,9.0,Hackathon
+NormalStudent,Emily Brown,05/08/2000,Female,0318563412,Good,8,8.4
+GoodStudent,David Hwang,12/11/1996,Male,0982145698,Excellent,9.5,LeadDebate
+NormalStudent,Sarah Wang,25/06/1998,Female,0903456789,Good,7,7.8
+GoodStudent,Michael Nguyen,03/02/2001,Male,0385678901,Excellent,8.7,Hackathon
+NormalStudent,Nguyen Tien Duc,18/04/2003,Male,0989378596,Good,8,7.9
+GoodStudent,Nguyen Tien Dat,14/09/2003,Male,0351223124,Excellent,8.7,Hackathon
+GoodStudent,Hoang Hoa Tham,03/12/1999,Female,0912345678,Excellent,8.3,Science Fair Winner
+NormalStudent,James Brown,22/07/2002,Male,0356789123,Good,6,7.2
+GoodStudent,Lily Nguyen,14/11/1997,Female,0987654321,Excellent,9.2,Coding Competition Champion
+NormalStudent,Kevin Park,30/03/2004,Male,0311567890,Good,7,7.8
+GoodStudent,Sophia Chen,08/09/2000,Female,0909876543,Excellent,9.7,Debate Championship
+NormalStudent,Duong Quynh Anh,31/03/2003,Female,0351231235,Good,8,8,6
